@@ -20,8 +20,7 @@
 
 </p>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mb-emektar&show_icons=true&locale=en&layout=compact" alt="mb-emektar" /></p>
+ <h3 align="left">Stats:</h3>
 <a href="https://github.com/Mavrikant/Mavrikant">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mb-emektar&hide=javascript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
 </a>
