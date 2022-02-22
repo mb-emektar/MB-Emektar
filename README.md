@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MB-Emektar?tab=repositories](https://github.com/MB-Emektar?tab=repositories)
 
-- 📫 How to reach me **baris.emektar@gmail.com**
+- 📫 How to reach me **m.baris.emektar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
