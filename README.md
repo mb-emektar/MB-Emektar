@@ -19,9 +19,9 @@
 <p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.plm.automation.siemens.com/global/en/products/nx/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/5/51/Siemens_NX_Logo.png" alt="unity" width="40" height="40"/> </a> <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer"> <img src="https://546626-1752849-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/11/LTSpice-logo.jpg" alt="unity" width="40" height="40"/> </a>
 
 </p>
-
-
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?MB-Emektar" frameborder="0"></iframe>
+<a href="https://github.com/mb-emektar/mb-emektar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mb-emektar&hide=javascript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
+</a>
 <!--
 **MB-Emektar/MB-Emektar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
