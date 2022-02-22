@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barış</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working at **Aselsan**
+- 🔭 I’m a senior electrical&electronic engineering student at **METU** and currently working at **Aselsan** in Turkey.
 
 - 👨‍💻 All of my projects are available at [https://github.com/MB-Emektar?tab=repositories](https://github.com/MB-Emektar?tab=repositories)
 
