@@ -20,10 +20,8 @@
 
 </p>
 
-<a href="https://github.com/Mavrikant/Mavrikant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mb-emektar&hide=javascript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
-</a>
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?MB-Emektar" frameborder="0"></iframe>
 <!--
 **MB-Emektar/MB-Emektar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
