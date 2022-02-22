@@ -18,6 +18,9 @@
  <h3 align="left">Tools:</h3>
 <p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
+<a href="https://www.plm.automation.siemens.com/global/en/products/nx/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/5/51/Siemens_NX_Logo.png" alt="unity" width="40" height="40"/> </a> </p>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mb-emektar&show_icons=true&locale=en&layout=compact" alt="mb-emektar" /></p>
 
 
