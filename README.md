@@ -24,7 +24,7 @@
 </a>
 
 <a href="https://github.com/mb-emektar/mb-emektar">
-  <img align="center" <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?MB-emektar" frameborder="0"></iframe>
+   <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?MB-emektar" frameborder="0"></iframe>
 </a>
 
 
