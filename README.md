@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barış</h1>
-<h3 align="center">I’m a senior electrical&electronics engineering student at METU and currently working at Aselsan in Turkey.</h3>
+<h3 align="center">I’m a senior electrical&electronics engineering student at METU and currently working at ASELSAN in Turkey.</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/MB-Emektar?tab=repositories](https://github.com/MB-Emektar?tab=repositories)
