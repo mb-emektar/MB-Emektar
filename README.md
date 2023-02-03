@@ -1,26 +1,75 @@
 <h1 align="center">Hi 👋, I'm Barış</h1>
-<h3 align="center">I’m a senior electrical&electronics engineering student at METU and currently working at ASELSAN in Turkey.</h3>
+<p><em>Software Enginner at <a href="http://www.aselsan.com.tr">ASELSAN</a>
+  </br>Graduated from <a href="http://www.metu.edu.tr">METU</a> Electrical & Electronics Engineering
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/MB-Emektar?tab=repositories](https://github.com/MB-Emektar?tab=repositories)
 
 - 📫 How to reach me **m.baris.emektar@gmail.com**
 
+  
+  
 <h3 align="left">Connect with me:</h3>
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 <p align="left">
 <a href="https://linkedin.com/in/emektar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emektar" height="30" width="40" /></a>
 <a href="https://instagram.com/m.baris.emektar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.baris.emektar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Programming Languages:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+<p align="left"> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img src="https://www.quickcomputerstips.com/storage/img/images_33/learn_assembly_language_online.jpg" alt="assembly" width="40" height="40"/> </a> 
+   <a href="[https://en.wikipedia.org/wiki/Assembly_language](https://en.wikipedia.org/wiki/Verilog)" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/16542113/50175134-4f7b3700-02fc-11e9-914e-cb317fddce4e.png" alt="verilog" width="40" height="40"/> </a> 
   
- <h3 align="left">Tools:</h3>
-<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.plm.automation.siemens.com/global/en/products/nx/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/5/51/Siemens_NX_Logo.png" alt="unity" width="40" height="40"/> </a> <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer"> <img src="https://546626-1752849-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/11/LTSpice-logo.jpg" alt="unity" width="40" height="40"/> </a>
-
+  
+ 
+  
+ <h3 align="left">Engineering Tools:</h3>
+<p align="left"> <a href=" https://eclipseide.org/" target="_blank" rel="noreferrer"> <img src="https://algol.dev/wp-content/uploads/2020/10/logo-eclipse.png" alt="eclipse" width="40" height="40"/> </a> 
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="jira" width="40" height="40"/> </a>
+  <a href="https://www.sourcetreeapp.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/313_Sourcetree_logo-512.png" alt="source_tree" width="40" height="40"/> </a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://www.pngkit.com/png/full/365-3657626_wireshark-icon.png" alt="wireshark" width="40" height="40"/> </a>
+  <a href="https://cmake.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/1200px-Cmake.svg.png" alt="cmake" width="40" height="40"/> </a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>  
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+  <a href="https://www.plm.automation.siemens.com/global/en/products/nx/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/5/51/Siemens_NX_Logo.png" alt="unity" width="40" height="40"/> </a> 
+  <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/839168408490913792/ukNPeWwa_400x400.jpg" alt="ltspice" width="40" height="40"/> </a>
+   
+  
+  
+  
+  
 </p>
 
+ <h3 align="left">Other Tools:</h3>
+<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a> 
+ <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/1200px-Adobe_Premiere_Pro_Logo.svg.png" alt="premiere pro" width="40" height="40"/> </a> 
+ <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Adobe_After_Effects_CC_icon.png" alt="after_effects" width="40" height="40"/> </a> 
+  
+  
+  
+</p>
 
+# 
+
+  
+  ![Barış's GitHub stats](https://github-readme-stats.vercel.app/api?username=mb-emektar&show_icons=true&theme=react    )
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mb-emektar&layout=compact&theme=react)
+  
+# 
+
+
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+</div>
+
+ 
 
 <!--
 **MB-Emektar/MB-Emektar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
