@@ -23,7 +23,7 @@
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img src="https://www.quickcomputerstips.com/storage/img/images_33/learn_assembly_language_online.jpg" alt="assembly" width="40" height="40"/> </a> 
+   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png" alt="assembly" width="40" height="40"/> </a> 
    <a href="[https://en.wikipedia.org/wiki/Assembly_language](https://en.wikipedia.org/wiki/Verilog)" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/16542113/50175134-4f7b3700-02fc-11e9-914e-cb317fddce4e.png" alt="verilog" width="40" height="40"/> </a> 
   
   
@@ -31,11 +31,12 @@
   
  <h3 align="left">Engineering Tools:</h3>
 <p align="left"> <a href=" https://eclipseide.org/" target="_blank" rel="noreferrer"> <img src="https://algol.dev/wp-content/uploads/2020/10/logo-eclipse.png" alt="eclipse" width="40" height="40"/> </a> 
-  <a href="https://conan.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/15212165?s=280&v=4" alt="conan" width="40" height="40"/> </a>  
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="jira" width="40" height="40"/> </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="jira" width="40" height="40"/> </a>
   <a href="https://www.sourcetreeapp.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/313_Sourcetree_logo-512.png" alt="source_tree" width="40" height="40"/> </a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://www.pngkit.com/png/full/365-3657626_wireshark-icon.png" alt="wireshark" width="40" height="40"/> </a>
   <a href="https://cmake.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/1200px-Cmake.svg.png" alt="cmake" width="40" height="40"/> </a>
+  <a href="https://conan.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/15212165?s=280&v=4" alt="conan" width="40" height="40"/> </a>  
+  <a href="https://www.ibm.com/docs/en/engineering-lifecycle-management-suite/doors/9.7.0?topic=overview-doors" target="_blank" rel="noreferrer"> <img src="https://www.automation-consultants.com/wp-content/uploads/2019/07/IBM-Doors-300-1-2.png" alt="doors" width="40" height="40"/> </a>  
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>  
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
   <a href="https://www.plm.automation.siemens.com/global/en/products/nx/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/5/51/Siemens_NX_Logo.png" alt="unity" width="40" height="40"/> </a> 
