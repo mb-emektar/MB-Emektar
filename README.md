@@ -24,7 +24,7 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
    <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png" alt="assembly" width="40" height="40"/> </a> 
-   <a href="[https://en.wikipedia.org/wiki/Assembly_language](https://en.wikipedia.org/wiki/Verilog)" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/16542113/50175134-4f7b3700-02fc-11e9-914e-cb317fddce4e.png" alt="verilog" width="40" height="40"/> </a> 
+   <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/file-type-verilog-icon-1024x1024-1hv3ysgx.png" alt="verilog" width="40" height="40"/> </a> 
   
   
  
