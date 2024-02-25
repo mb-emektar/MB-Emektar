@@ -31,7 +31,8 @@
   
  <h3 align="left">Engineering Tools:</h3>
 <p align="left"> <a href=" https://eclipseide.org/" target="_blank" rel="noreferrer"> <img src="https://algol.dev/wp-content/uploads/2020/10/logo-eclipse.png" alt="eclipse" width="40" height="40"/> </a> 
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="jira" width="40" height="40"/> </a>
+  <a href="https://conan.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/15212165?s=280&v=4" alt="conan" width="40" height="40"/> </a>  
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="jira" width="40" height="40"/> </a>
   <a href="https://www.sourcetreeapp.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/313_Sourcetree_logo-512.png" alt="source_tree" width="40" height="40"/> </a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://www.pngkit.com/png/full/365-3657626_wireshark-icon.png" alt="wireshark" width="40" height="40"/> </a>
   <a href="https://cmake.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/1200px-Cmake.svg.png" alt="cmake" width="40" height="40"/> </a>
