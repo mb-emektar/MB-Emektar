@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barış</h1>
 <p><em>Software Enginner at <a href="http://www.aselsan.com.tr">ASELSAN</a>
   </br>Graduated from <a href="http://www.metu.edu.tr">METU</a> Electrical & Electronics Engineering
+  </br>Currently pursuing a Master's Degree in METU Computer Engineering
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/MB-Emektar?tab=repositories](https://github.com/MB-Emektar?tab=repositories)
