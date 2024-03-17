@@ -17,6 +17,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/emektar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emektar" height="30" width="40" /></a>
 <a href="https://instagram.com/m.baris.emektar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.baris.emektar" height="30" width="40" /></a>
+<a href="https://pin.it/2SXVaQJAw" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" alt="m.baris.emektar" height="30" width="30" /></a>
+
+
+ 
 </p>
 
 <h3 align="left">Programming Languages:</h3>
