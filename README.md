@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **m.baris.emektar@gmail.com**
 
-  
+
   
 <h3 align="left">Connect with me:</h3>
 
@@ -19,6 +19,7 @@
 <a href="https://medium.com/@m.baris.emektar" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/5968/5968906.png" alt="emektar" height="30" width="40" /></a> 
 <a href="https://instagram.com/m.baris.emektar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.baris.emektar" height="30" width="40" /></a>
 <a href="https://pin.it/2SXVaQJAw" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" alt="m.baris.emektar" height="30" width="30" /></a>
+<a href="https://quizlet.com/emektarbaris/folders/my-software-interview-flashcards?i=3me9f5&x=1xqt" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXJs7AUCd8rSHa57l4dIbxIwz34oeYTnPPDQ&s" alt="m.baris.emektar" height="30" width="30" /></a>
 
 
  
