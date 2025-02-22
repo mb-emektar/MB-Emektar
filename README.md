@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barış</h1>
 <p><em>Software Enginner at <a href="http://www.aselsan.com.tr">ASELSAN</a>
-  </br>Graduated from <a href="http://www.metu.edu.tr">METU</a> Electrical & Electronics Engineering
-  </br>Currently pursuing a Master's Degree in METU Computer Engineering
+  </br>Graduated from <a href="https://eee.metu.edu.tr/">METU Electrical & Electronics Engineering</a>
+  </br>Currently pursuing a Master's Degree in <a href="https://ceng.metu.edu.tr/">METU Computer Engineering</a>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/MB-Emektar?tab=repositories](https://github.com/MB-Emektar?tab=repositories)
@@ -39,9 +39,11 @@
   
  <h3 align="left">Engineering Tools:</h3>
 
-<p align="left"> <a href="https://eclipseide.org/" target="_blank" rel="noreferrer"> <img src="https://algol.dev/wp-content/uploads/2020/10/logo-eclipse.png" alt="eclipse" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://eclipseide.org/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandslogos.com%2Fwp-content%2Fuploads%2Fimages%2Flarge%2Feclipse-logo.png&f=1&nofb=1&ipt=30dd1898ff6886b49b70cb9afc8cc7dbac8c890170eb477ba72dc06fd28e1abc&ipo=images" alt="eclipse" width="40" height="40"/> </a> 
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F555168.png&f=1&nofb=1&ipt=8e7f2a42fc02cc0514370de87fb184188ba243df4f45d9a62e58834771c1a1d4&ipo=images" alt="visual_studio" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-11x1bslmqzE%2FWWVanER6aQI%2FAAAAAAAACG8%2FXYAjVVAOLcEgmBkv6MVNUvXaQVLQ2tZSwCLcBGAs%2Fs1600%2Fvisual-studio-code-logo.png&f=1&nofb=1&ipt=9ed58c83319e14353d2c4cfcaa12444d24b407cc5a4f8c2bf156a17dd05f2910&ipo=images" alt="visual_studio_code" width="40" height="40"/> </a> 
 <a align="left"> <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="eclipse" width="40" height="40"/> </a> 
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="jira" width="40" height="40"/> </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftoppng.com%2Fuploads%2Fpreview%2Fjira-software-logo-jira-software-logo-11562914188wp8r59nt10.png&f=1&nofb=1&ipt=146f23d8ba56a38d74b2379fb7c3e73c567318e0e62a305153efc283ad13216b&ipo=images" alt="jira" width="40" height="40"/> </a>
   <a href="https://www.sourcetreeapp.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/313_Sourcetree_logo-512.png" alt="source_tree" width="40" height="40"/> </a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://www.pngkit.com/png/full/365-3657626_wireshark-icon.png" alt="wireshark" width="40" height="40"/> </a>
   <a href="https://cmake.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/1200px-Cmake.svg.png" alt="cmake" width="40" height="40"/> </a>
@@ -49,7 +51,7 @@
   <a href="https://www.ibm.com/docs/en/engineering-lifecycle-management-suite/doors/9.7.0?topic=overview-doors" target="_blank" rel="noreferrer"> <img src="https://www.automation-consultants.com/wp-content/uploads/2019/07/IBM-Doors-300-1-2.png" alt="doors" width="40" height="40"/> </a>  
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>  
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-  <a href="https://www.plm.automation.siemens.com/global/en/products/nx/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/5/51/Siemens_NX_Logo.png" alt="unity" width="40" height="40"/> </a> 
+  <a href="https://www.plm.automation.siemens.com/global/en/products/nx/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhandwiki.org%2Fwiki%2Fimages%2Fthumb%2F5%2F51%2FSiemens_NX_Logo.png%2F250px-Siemens_NX_Logo.png&f=1&nofb=1&ipt=94484d66f238baba1adc5e47db773d71b2538dd8d84bc218622b619b1238ef34&ipo=images" alt="siemens_nx" width="40" height="40"/> </a> 
   <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/839168408490913792/ukNPeWwa_400x400.jpg" alt="ltspice" width="40" height="40"/> </a>
    
   
